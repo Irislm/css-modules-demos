@@ -1,0 +1,15 @@
+{
+  "name": "css-modules-demos",
+  "version": "1.0.0",
+  "description": "A demo for learning CSS Modules",
+  "main": "index.js",
+  "scripts": {
+    "start": ""
+  },
+  "keywords": [
+    "CSS",
+    "CSS-Modules"
+  ],
+  "author": "Iris Liu",
+  "license": "ISC"
+}
