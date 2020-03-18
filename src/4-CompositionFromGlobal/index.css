@@ -1,0 +1,7 @@
+:global(.className) {
+    background-color: navajowhite;
+}
+.title {
+    composes: className from global;
+    color: red;
+}

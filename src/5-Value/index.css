@@ -1,0 +1,6 @@
+@value colors: "./colors.css";
+@value blueColor, redColor, greenColor from colors;
+
+.title {
+    color: redColor;
+}
